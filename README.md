@@ -19,5 +19,5 @@ This repository is mainly used in youtube to query the corresponding video by ke
 
 ## Acknowledges
 
-- YouTube_Crawler is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/Maryin-c/KeywordSpider_pictures_videos).
+- YouTube_Crawler is influenced by the github repo [KeywordSpider_pictures_videos](https://github.com/Maryin-c/KeywordSpider_pictures_videos).
 - ChatGPT
